@@ -16,9 +16,16 @@
     "esbuild": "^0.17.11"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
     "@socketsupply/socket": "^0.0.33",
+    "@types/node": "^18.14.6",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-redux": "^8.0.5",
+    "typescript": "^4.9.5"
   },
   "type": "module"
 }
